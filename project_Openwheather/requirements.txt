@@ -1,0 +1,4 @@
+PySimpleGUI
+SQLAlchemy
+requests
+python-dotenv
